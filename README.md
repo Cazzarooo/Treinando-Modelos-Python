@@ -1,0 +1,3 @@
+Análise Exploratória de Dados e Modelagem de Aprendizado de Máquina para Predição da Qualidade de Maçãs.
+Este notebook realiza uma análise exploratória de dados e constrói um modelo de aprendizado de máquina para prever a qualidade das maçãs com base em várias características.
+Índice Preparação de Dados Carregando os Dados Análise Exploratória de Dados Pairplot Boxplots Histogramas Matriz de Correlação Detecção e Tratamento de Outliers Método IQR Preprocessamento de Dados Descartando a Última Linha Excluindo Colunas de String Padronizando Recursos Normalização Min-Max Treinamento e Avaliação do Modelo Criando DataFrames para Dados Escalonados e Normalizados Modelo K-Vizinhos Mais Próximos (KNN) Modelo Árvore de Decisão              
